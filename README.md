@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Javier!
 
-🌱 **Emerging IT and Cybersecurity Specialist**  
-Transitioning from a background in training and multimedia, I am dedicated to building a career in cybersecurity, focusing on protecting digital assets and enhancing system security.
+## 💻 Emerging IT and Cybersecurity Specialist
+Transitioning from a background in technology training and multimedia, I am dedicated to building a career in cybersecurity, focusing on protecting digital assets and enhancing system security.
 
 ## 🎓 Current Certifications
 - Google Cybersecurity Professional Certificate
