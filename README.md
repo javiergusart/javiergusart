@@ -11,10 +11,6 @@
 - Cloud Engineering
 - Python/SQL
 
-## 🔐 What I Do
-- **Cybersecurity**: Actively pursuing certifications to strengthen security practices.
-- **IT Support**: Committed to troubleshooting and maintaining systems.
-
 ## 💼 Skills
 - Cybersecurity Fundamentals
 - Problem Solving and Critical Thinking
