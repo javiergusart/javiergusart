@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Javier!
 
-<!--
-**javiergusart/javiergusart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Emerging IT and Cybersecurity Specialist**  
+Transitioning from a background in training and multimedia, I am dedicated to building a career in cybersecurity, focusing on protecting digital assets and enhancing system security.
 
-Here are some ideas to get you started:
+## 🎓 Current Certifications
+- Google Cybersecurity Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Advanced Cybersecurity Concepts
+- Networking Protocols
+- Ethical Hacking Techniques
+- Cloud Engineering
+- Python/SQL
+
+## 🔐 What I Do
+- **Cybersecurity**: Actively pursuing certifications to strengthen security practices.
+- **IT Support**: Committed to troubleshooting and maintaining systems.
+
+## 💼 Skills
+- Cybersecurity Fundamentals
+- Problem Solving and Critical Thinking
+- Communication and Collaboration
+- Adaptability and Learning Agility
+
+## 📫 Get in Touch
+- LinkedIn: [Javier Gusart](https://www.linkedin.com/in/javier-gusart/)
