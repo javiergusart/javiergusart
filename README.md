@@ -22,4 +22,5 @@
 - Communication and Collaboration
 
 ## 📫 Get in Touch
-- LinkedIn: [Javier Gusart](https://www.linkedin.com/in/javier-gusart/)
+- **Email**: javier.gusart@gmail.com  
+- **LinkedIn**: [Javier Gusart](https://www.linkedin.com/in/javiergusart)
