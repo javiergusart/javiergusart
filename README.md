@@ -1,18 +1,23 @@
 # 👋 Hi, I'm Javier!
 
-## 💻 Emerging IT and Cybersecurity Specialist
-- Evolving from technology training and multimedia into cybersecurity and programming.
+## 💻 Aspiring Software Engineer & Cybersecurity Specialist
+- Evolving from technology training and multimedia into full-stack development, cloud engineering, and cybersecurity.
 
-## 🎓 Current Certification In Progress
-- Google Cybersecurity Professional Certificate
+## 🎓 Current Certifications & Programs
+- Google Cybersecurity Professional Certificate (in progress)
+- UT Austin Full Stack Software Development: Building Scalable Cloud Applications (enrolled)
 
 ## 📚 Currently Learning
+- Full Stack Web Development (MERN Stack)
 - Advanced Cybersecurity Concepts
 - Cloud Engineering
 - Python/SQL
 
 ## 💼 Skills
 - Cybersecurity Fundamentals
+- Web Development (HTML, CSS, JavaScript, React, Node.js)
+- REST APIs and Databases
+- Git & Version Control
 - Problem Solving and Critical Thinking
 - Communication and Collaboration
 
