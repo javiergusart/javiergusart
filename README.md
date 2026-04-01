@@ -6,8 +6,6 @@
 
 Building innovative solutions and collaborating with great people to bring ideas to life.
 
-🎓 Currently enrolled in the **UT Austin Full Stack Software Development: Building Scalable Cloud Applications** program.
-
 </div>
 
 ## 🛠️ Tech Stack
