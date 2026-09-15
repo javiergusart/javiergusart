@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="380" viewBox="0 0 680 380" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-  <rect x="1" y="1" width="678" height="378" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="346" viewBox="0 0 680 346" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="1" y="1" width="678" height="344" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
   <circle cx="30" cy="30" r="6" fill="#f85149"/>
   <circle cx="50" cy="30" r="6" fill="#d29922"/>
   <circle cx="70" cy="30" r="6" fill="#3fb950"/>
@@ -14,6 +14,5 @@
     <text x="32" y="238">for the communities i'm part of.</text>
     <text x="32" y="274"><tspan fill="#d2a8ff">❯</tspan> cat now.txt</text>
     <text x="32" y="310">missent, a quick little email app.</text>
-    <text x="32" y="346"><tspan fill="#d2a8ff">❯</tspan> <tspan fill="#e6edf3">█</tspan></text>
   </g>
 </svg>
