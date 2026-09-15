@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="500" viewBox="0 0 680 500" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-  <rect x="1" y="1" width="678" height="498" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="454" viewBox="0 0 680 454" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="1" y="1" width="678" height="452" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
   <circle cx="30" cy="30" r="6" fill="#f85149"/>
   <circle cx="50" cy="30" r="6" fill="#d29922"/>
   <circle cx="70" cy="30" r="6" fill="#3fb950"/>
   <text x="92" y="35" font-size="13" fill="#8b949e">readme.md</text>
-  <g font-size="14" fill="#e6edf3">
-    <text x="32" y="78"><tspan fill="#d2a8ff">❯</tspan> cat about.txt</text>
+  <text x="32" y="78" font-size="14"><tspan fill="#d2a8ff">❯</tspan><tspan fill="#e6edf3"> cat about.txt</tspan></text>
+  <g font-size="14" fill="#3fb950">
     <text x="32" y="106">into fast, minimal software that respects your</text>
     <text x="32" y="130">time. no bloat, no noise, nothing fighting for</text>
     <text x="32" y="154">your attention. just tools that work and get out</text>
     <text x="32" y="178">of the way. simple as that.</text>
     <text x="32" y="214">i ship software, solve problems, and build</text>
     <text x="32" y="238">for the communities i'm part of.</text>
-    <text x="32" y="274"><tspan fill="#d2a8ff">❯</tspan> cat now.txt</text>
-    <text x="32" y="310">missent, a quick little email app.</text>
   </g>
+  <text x="32" y="274" font-size="14"><tspan fill="#d2a8ff">❯</tspan><tspan fill="#e6edf3"> cat now.txt</tspan></text>
+  <text x="32" y="310" font-size="14" fill="#3fb950">missent, a quick little email app.</text>
   <line x1="32" y1="338" x2="648" y2="338" stroke="#21262d" stroke-width="1"/>
   <text x="32" y="374" font-size="14" fill="#d2a8ff">❯</text>
   <rect x="49" y="361" width="9" height="17" fill="#e6edf3">
@@ -26,8 +26,4 @@
   <text x="578" y="419" font-size="16" fill="#8b949e" text-anchor="middle">+</text>
   <rect x="612" y="394" width="44" height="36" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
   <text x="634" y="417" font-size="14" fill="#8b949e" text-anchor="middle">→</text>
-  <rect x="74" y="444" width="246" height="34" rx="8" fill="#D14836"/>
-  <text x="197" y="466" font-size="13" fill="#ffffff" text-anchor="middle">javier.gusart@gmail.com</text>
-  <rect x="332" y="444" width="274" height="34" rx="8" fill="#0A66C2"/>
-  <text x="469" y="466" font-size="13" fill="#ffffff" text-anchor="middle">linkedin.com/in/javiergusart</text>
 </svg>
