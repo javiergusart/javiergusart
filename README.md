@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme-terminal.svg?v=3" width="680" alt="terminal: about, now, and composer">
+  <img src="terminal-card.svg" width="680" alt="terminal: about, now, and composer">
 </p>
 
 <p align="center">
