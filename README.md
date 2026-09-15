@@ -1,32 +1,25 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Javier!;Full+Stack+Software+Developer" alt="Typing SVG" />
-</div>
+<div style="background:#0d1117;border:1px solid #30363d;border-radius:6px;padding:32px 36px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;color:#e6edf3;max-width:760px;">
 
-<div align="center">
+<p style="margin:0 0 24px;font-size:13px;color:#7d8590;"><span style="color:#f85149;">●</span> <span style="color:#d29922;">●</span> <span style="color:#3fb950;">●</span><span style="margin-left:12px;">readme.md</span></p>
 
-Building innovative solutions and collaborating with great people to bring ideas to life.
+<p style="margin:0 0 12px;"><span style="color:#a371f7;">❯</span> cat about.txt</p>
+<p style="margin:0 0 12px;">into fast, minimal software that respects your<br>time. no bloat, no noise, nothing fighting for<br>your attention. just tools that work and get out<br>of the way. simple as that.</p>
+<p style="margin:0 0 12px;">i ship software, solve problems, and build<br>for the communities i'm part of.</p>
 
-</div>
+<p style="margin:20px 0 12px;"><span style="color:#a371f7;">❯</span> cat now.txt</p>
+<p style="margin:0 0 20px;">missent, a quick little email app.</p>
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<p style="margin:0 0 28px;">
+<a href="mailto:javier.gusart@gmail.com" style="display:inline-block;background:#D14836;color:#ffffff;font-size:12px;padding:8px 14px;border-radius:4px;margin-right:10px;text-decoration:none;">javier.gusart@gmail.com</a>
+<a href="https://www.linkedin.com/in/javiergusart" style="display:inline-block;background:#0077B5;color:#ffffff;font-size:12px;padding:8px 14px;border-radius:4px;text-decoration:none;">linkedin.com/in/javiergusart</a>
 </p>
 
-## 📫 Get in Touch
+<div style="border:1px solid #30363d;border-radius:8px;padding:14px 16px;font-size:13px;">
+<p style="margin:0 0 18px;"><span style="color:#a371f7;">❯</span> <span style="color:#a371f7;">█</span></p>
+<table style="width:100%;border:none;border-collapse:collapse;margin:0;"><tr>
+<td style="border:none;padding:0;color:#7d8590;">model <span style="color:#3d444d;">▾</span> <span style="color:#3d444d;">│</span> high <span style="color:#3d444d;">▾</span> <span style="color:#3d444d;">│</span> full access <span style="color:#3d444d;">▾</span></td>
+<td style="border:none;padding:0;text-align:right;white-space:nowrap;"><span style="border:1px solid #3d444d;border-radius:4px;padding:2px 8px;color:#e6edf3;">+</span> <span style="border:1px solid #3d444d;border-radius:4px;padding:2px 8px;color:#e6edf3;">→</span></td>
+</tr></table>
+</div>
 
-<p align="center">
-  <a href="mailto:javier.gusart@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/javiergusart">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
