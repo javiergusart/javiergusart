@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="profile-card.svg" width="680" alt="terminal: about, now, and composer">
+  <img src="card.svg" width="680" alt="terminal: about, now, and composer">
 </p>
 
 <p align="center">
-  <a href="mailto:javier.gusart@gmail.com" target="_blank"><img src="badge-email.svg" height="36" alt="javier.gusart@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/javiergusart" target="_blank"><img src="badge-linkedin.svg" height="36" alt="linkedin.com/in/javiergusart"></a>
+  <a href="mailto:javier.gusart@gmail.com"><img src="badge-email.svg" height="36" alt="javier.gusart@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/javiergusart"><img src="badge-linkedin.svg" height="36" alt="linkedin.com/in/javiergusart"></a>
 </p>

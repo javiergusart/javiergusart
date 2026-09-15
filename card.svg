@@ -21,7 +21,7 @@
     <animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
   </rect>
   <rect x="24" y="394" width="352" height="36" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="42" y="417" font-size="13" fill="#8b949e">model ▾   │   high ▾   │   full access ▾</text>
+  <text x="42" y="417" font-size="13" fill="#8b949e">model ▾   │   xhigh ▾   │   full access ▾</text>
   <rect x="556" y="394" width="44" height="36" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
   <text x="578" y="419" font-size="16" fill="#8b949e" text-anchor="middle">+</text>
   <rect x="612" y="394" width="44" height="36" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
