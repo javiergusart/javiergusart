@@ -14,7 +14,7 @@
     <text x="32" y="238">for the communities i'm part of.</text>
   </g>
   <text x="32" y="274" font-size="14"><tspan fill="#d2a8ff">❯</tspan><tspan fill="#3fb950"> cat now.txt</tspan></text>
-  <text x="32" y="310" font-size="14" fill="#e6edf3">missent, a quick, minimal, and aesthetic email client.</text>
+  <text x="32" y="310" font-size="14" fill="#e6edf3">missent - a quick, minimal, and aesthetic email client.</text>
   <line x1="32" y1="338" x2="648" y2="338" stroke="#21262d" stroke-width="1"/>
   <text x="32" y="374" font-size="14" fill="#d2a8ff">❯</text>
   <rect x="49" y="361" width="9" height="17" fill="#e6edf3">
