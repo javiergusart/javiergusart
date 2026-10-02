@@ -16,8 +16,8 @@
   <text x="32" y="274" font-size="14"><tspan fill="#d2a8ff">❯</tspan><tspan fill="#3fb950"> cat now.txt</tspan></text>
   <g font-size="14" fill="#e6edf3">
     <text x="32" y="310">missent - a quick, minimal, and aesthetic email client.</text>
-    <text x="32" y="334">wow hud (name in progress) - a lightweight chat overlay for wow.</text>
-    <text x="32" y="358">private client app - a mobile app for a restaurant.</text>
+    <text x="32" y="334">wow hud (name in progress) - your ai crew, floating over azeroth.</text>
+    <text x="32" y="358">private client app - a restaurant app with real flavor.</text>
   </g>
   <line x1="32" y1="386" x2="648" y2="386" stroke="#21262d" stroke-width="1"/>
   <text x="32" y="422" font-size="14" fill="#d2a8ff">❯</text>
