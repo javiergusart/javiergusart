@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="card.svg" width="680" alt="terminal: about, now, and composer">
+  <img src="card.svg" width="680" alt="terminal: about and composer">
 </p>
 
 <p align="center">
